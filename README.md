@@ -25,3 +25,5 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 # License 
 
 [MIT](https://choosealicense.com)
+
+![lorempicsumgorsel](https://picsum.photos/seed/picsum/200/300)
